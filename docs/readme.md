@@ -15,7 +15,7 @@ Selamat datang di repositori ini! 🚀 Ini adalah dokumentasi perjalanan saya da
 ## 📖 Konten Saat Ini  
 - [Linux Command Guide](Linux_Commands_Complete_Guide.md)  
 - [Python Basic](Python_Basic.md)  
-- [Cybersecurity Learning Path]()  
+- [Cybersecurity Learning Path](cybersecurity_learning_path.md)  
 
 ## 🚀 Progress  
 ✅ Install & setup Kali Linux  
