@@ -76,8 +76,3 @@
 
 ---
 
-## **🔥 Next Steps:**
-1️⃣ Mulai dari **Phase 1** → Install Kali Linux, belajar dasar Linux & Networking.
-2️⃣ Praktek langsung di **TryHackMe** (*mulai dari "Pre Security" path*).
-3️⃣ Dokumentasikan progress di GitHub (Learning Journal).
-
